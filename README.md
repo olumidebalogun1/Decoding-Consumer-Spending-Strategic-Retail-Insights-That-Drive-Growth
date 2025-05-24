@@ -30,8 +30,26 @@ This isn’t just analytics, it’s **decision intelligence** in action. Powered
 ### 🔗 **Read the complete report – [Decoding Consumer Spending: Retail Insights That Drive Growth](https://github.com/olumidebalogun1/Decoding-Consumer-Spending-Strategic-Retail-Insights-That-Drive-Growth/tree/main/5.%20Final_Report)**
 
 <br>
+ 
+## Goal of this Project
+The primary objective of this project is to **transform raw sales data** into actionable **business insights** that **fuel strategic, data-driven decision-making**. In an environment shaped by rising market complexities and evolving consumer expectations, it is no longer sufficient for businesses to merely understand historical performance, they must anticipate future trends and proactively prescribe optimal actions.
 
- ## Business Challenge
+**This project aims to**:
+- Uncover hidden sales patterns and identify untapped growth opportunities.
+  
+- Identify top-performing products and high-revenue cities driving business success.
+  
+- Analyze customer purchasing behavior to optimize the timing and targeting of marketing efforts.
+  
+- Forecast future sales trends to inform inventory management, budgeting, and strategic planning.
+  
+- Recommend targeted business strategies using customer segmentation and association rule insights.
+
+**In simple terms**: this project empowers stakeholders with the intelligence they need to make faster, smarter, and more strategic decisions, ultimately improving sales performance, streamlining operations, enhancing customer engagement, and driving profitability in a competitive landscape.
+
+<br>
+
+## Business Challenge
 Chris & Kris faces several operational and strategic challenges that hinder its ability to optimize performance:
 
 -	**Limited visibility into which products or markets truly drive revenue**
@@ -53,24 +71,6 @@ Without resolving these issues, the company risks:
 -	Missed opportunities for growth and profit optimization
 
 This project is designed to directly address these gaps and turn them into competitive advantages.
-
-<br>
-
-## Goal of this Project
-The primary objective of this project is to **transform raw sales data** into actionable **business insights** that **fuel strategic, data-driven decision-making**. In an environment shaped by rising market complexities and evolving consumer expectations, it is no longer sufficient for businesses to merely understand historical performance, they must anticipate future trends and proactively prescribe optimal actions.
-
-**This project aims to**:
-- Uncover hidden sales patterns and identify untapped growth opportunities.
-  
-- Identify top-performing products and high-revenue cities driving business success.
-  
-- Analyze customer purchasing behavior to optimize the timing and targeting of marketing efforts.
-  
-- Forecast future sales trends to inform inventory management, budgeting, and strategic planning.
-  
-- Recommend targeted business strategies using customer segmentation and association rule insights.
-
-**In simple terms**: this project empowers stakeholders with the intelligence they need to make faster, smarter, and more strategic decisions, ultimately improving sales performance, streamlining operations, enhancing customer engagement, and driving profitability in a competitive landscape.
 
 <br>
 
